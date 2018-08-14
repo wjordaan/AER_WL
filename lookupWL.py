@@ -51,7 +51,7 @@ def read_WL(WL, searchlines):
 
 	path_cwd = os.getcwd()
 	if len(lic_lines) > 0:
-		with open(path_cwd + "\\AER_" + WL + '.txt', 'a+') as f:
+		with open(path_cwd + "\\WL_" + WL + '.txt', 'a+') as f:
 			sys.stdout = f
 			#print('########################################################################################')
 			#print('###########################    Well License:'+ WL +'    ###################################')
@@ -117,7 +117,7 @@ def input_WL():
 	import os
 	import sys
 	WL = input("Please enter Alberta Well License: ")
-	WL_filename = 'AER_'+str(WL)+'.txt'
+	WL_filename = 'WL_'+str(WL)+'.txt'
 	if os.path.isfile(WL_filename):
 		os.remove(WL_filename)
 
@@ -139,7 +139,7 @@ if __name__ == "__main__":
 		WL=input_WL()
 		main(WL)
 		path_cwd = os.getcwd()		
-		os.startfile(os.path.join(path_cwd,'AER_'+WL+'.txt'))
+		os.startfile(os.path.join(path_cwd,'WL_'+WL+'.txt'))
 	
 	except Exception as err:
 		with open('err_log.txt', 'a') as f:
