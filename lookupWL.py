@@ -92,7 +92,7 @@ def main(WL):
 			for name in files:
 				#print(os.path.join(root, name))
 				if '.txt'.lower() in name.lower():
-					if 'WL'.lower() in name.lower() or 'WELL'.lower() in name.lower():
+					if 'WELL'.lower() in name.lower():
 						with open(os.path.join(root,name),'r') as f:
 							searchlines = f.readlines()
 							read_WL(WL,searchlines)

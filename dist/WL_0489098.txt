@@ -1,0 +1,44 @@
+#######################    Well License:0489098    #######################
+
+
+    RRX HZ PEMBINA 4-4-46-2              0489098   BOTH                 979.8M                          
+
+    100/04-04-046-02W5/00  N  581.2M  E  264.9M    DRAYTON VALLEY       4850.0M                         
+
+    DPT (CB - MANNVILLE GRP)             PEMBINA                        DUVERNAY FM                     
+
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+
+    RAGING RIVER EXPLORATION INC.                                       05-09-046-02W5                  
+
+############################################################
+    RRX HZ PEMBINA 4-4-46-2               0489098    GROUND ELEVATION                                   
+
+    100/04-04-046-02W5/00                            980.3                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+
+                                                     N 0581.2 E 0279.9                                  
+
+                                                     DRILL CUTTINGS:                                    
+
+                                                     2254.50 TO 4850.00                                 
+
+############################################################
+    RRX HZ PEMBINA 4-4-46-2               0489098    UWI:                                               
+
+    00/04-04-046-02W5/0                              00/12-33-045-02W5/0                                
+
+                                                     WELL NAME:                                         
+
+                                                     RRX HZ PEMBINA 12-33-45-2                          
+
+                                                     PROJECTED DEPTH:                                   
+
+                                                     5743.00                                            
+
+                                                     DRILL CUTTINGS:                                    
+
+                                                     2254.50 TO 5743.00                                 
+
+############################################################
