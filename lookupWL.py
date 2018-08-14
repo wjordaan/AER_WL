@@ -74,10 +74,11 @@ def main(WL):
 	Year = datetime.date.today().strftime("%Y")
 	pYear = str(int(Year)-1)
 
-	Folder = os.path.join(r"\\","BHICalres01","Groups2","Inteq","Shared","1AER", Year)
+	cFolder = os.path.join(r"\\","BHICalres01","Groups2","Inteq","Shared","1AER", Year)
+	Folder = os.path.join(r"\\","BHICalres01","Groups2","Inteq","Shared","1AER")
 	#tFolder = 'C:\\1AER\\' + Year
 	if os.path.isdir(Folder):
-		tmod = os.path.getmtime(Folder)
+		tmod = os.path.getmtime(cFolder)
 		dtmod = datetime.datetime.fromtimestamp(tmod)
 
 		tnow = datetime.datetime.now()
