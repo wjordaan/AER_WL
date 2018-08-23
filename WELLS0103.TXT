@@ -1,0 +1,115 @@
+                                        ALBERTA ENERGY REGULATOR                                        
+                                                                                                        
+                                   WELL LICENCES ISSUED  DAILY LIST                                     
+                                                                                                        
+                                                                                                        
+
+    DATE: 03 January 2018                                                                               
+                                                                                                        
+
+    --------------------------------------------------------------------------------------------        
+    WELL NAME               LICENCE NUMBER         MINERAL RIGHTS       GROUND ELEVATION                
+    UNIQUE IDENTIFIER       SURFACE CO-ORDINATES   BOARD FIELD CENTRE   PROJECTED DEPTH                 
+    LAHEE CLASSIFICATION    FIELD                                       TERMINATING ZONE                
+    DRILLING OPERATION      WELL PURPOSE           WELL  TYPE           SUBSTANCE                       
+    LICENSEE                                                            SURFACE LOCATION                
+    --------------------------------------------------------------------------------------------        
+
+    VELVET HZ ROSEVEAR 13-6-54-15        0487507   ALBERTA CROWN        924.6M                          
+    100/13-06-054-15W5/00  N   98.0M  E  403.3M    DRAYTON VALLEY       5520.0M                         
+    DEV (C)                              ROSEVEAR                       MANNVILLE GRP                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    VELVET ENERGY LTD.                                                  03-31-053-15W5                  
+                                                                                                        
+    TAC 1-1 HZ PEMBINA 3-31-43-4         0487508   ALBERTA CROWN        971.5M                          
+    100/03-31-043-04W5/00  N  320.6M  W  191.7M    RED DEER             3400.0M                         
+    DEV (NC)                             PEMBINA                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          01-01-044-05W5                  
+                                                                                                        
+    TAC 1-1 HZ PEMBINA 4-31-43-4         0487509   ALBERTA CROWN        971M                            
+    100/04-31-043-04W5/00  N  320.6M  W  203.7M    RED DEER             3600.0M                         
+    DEV (NC)                             PEMBINA                        CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TAMARACK ACQUISITION CORP.                                          01-01-044-05W5                  
+                                                                                                        
+    ASPENLEAF HZ SWANH 14-29-67-8        0487510   ALBERTA CROWN        957.2M                          
+    100/14-29-067-08W5/00  S   81.7M  W  127.0M    ST. ALBERT           5130.0M                         
+    DEV (NC)                             SWAN HILLS                     SWAN HILLS MBR                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ASPENLEAF ENERGY LIMITED                                            16-21-067-08W5                  
+                                                                                                        
+    ASPENLEAF HZ SWANH 11-29-67-8        0487511   ALBERTA CROWN        957.6M                          
+    100/11-29-067-08W5/00  S   95.5M  W  121.0M    ST. ALBERT           5191.0M                         
+    DEV (NC)                             SWAN HILLS                     SWAN HILLS MBR                  
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    ASPENLEAF ENERGY LIMITED                                            16-21-067-08W5                  
+                                                                                                        
+    TORC 103 HZ KAYBOBS 5-2-60-20        0487512   ALBERTA CROWN        979.4M                          
+    103/05-02-060-20W5/00  N  379.4M  E   60.4M    ST. ALBERT           3183.0M                         
+    DEV (NC)                             KAYBOB SOUTH                   CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORC OIL & GAS LTD.                                                 04-01-060-20W5                  
+                                                                                                        
+    TORC 102 HZ KAYBOBS 15-4-59-19       0487513   ALBERTA CROWN        838.4M                          
+    102/15-04-059-19W5/00  S  215.2M  E  736.2M    DRAYTON VALLEY       3187.7M                       
+    DEV (NC)                             KAYBOB SOUTH                   CARDIUM FM                      
+    HORIZONTAL                           NEW       PRODUCTION           CRUDE OIL                       
+    TORC OIL & GAS LTD.                                                 14-32-058-19W5                  
+                                                                                                        
+    PEYTO BRAZR 2-1-42-13                0487514   ALBERTA CROWN        1223.6M                         
+    100/02-01-042-13W5/00  N  523.6M  E  660.7M    RED DEER             5100.0M                         
+    DEV (NC)                             BRAZEAU RIVER                  MANNVILLE GRP                   
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               06-12-042-13W5                  
+                                                                                                        
+    PEYTO PECO 4-5-49-15                 0487515   ALBERTA CROWN        1105.4M                         
+    102/04-05-049-15W5/00  N  498.8M  W   59.0M    DRAYTON VALLEY       4300.0M                         
+    DEV (C)                              PECO                           WILRICH MBR                     
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    PEYTO EXPLORATION & DEVELOPMENT CORP.                               08-05-049-15W5                  
+                                                                                                        
+    OBE HZ 102 WILLGR 8-34-42-8          0487516   ALBERTA CROWN        985.2M                          
+    100/08-34-042-08W5/00  S  201.9M  W  163.9M    RED DEER             5600.0M                         
+    NPW (C)                              WILLESDEN GREEN                SPIRIT RIVER FM                 
+    HORIZONTAL                           NEW       PRODUCTION           GAS                             
+    OBSIDIAN ENERGY LTD.                                                16-32-042-08W5                  
+                                                                                                        
+    AMENDMENTS OF WELL LICENCES
+    ---------------------------
+
+    WELL NAME AND U.I.D.                LICENCE NO.  AMENDED TO READ
+    --------------------                -----------  ---------------
+
+    WLEC MHZ 1C1 SWIMMING 1-29-52-6       0484996    WELL NAME:                                         
+    100/01-29-052-06W4/00                            WLEC MHZ 2B1 SWIMMING 1-2                          
+
+                                                     PROJECTED DEPTH:                                   
+                                                     2500.00                                            
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0105.0 W 0309.8                                  
+
+    WLEC HZ 4C13 FROG LK 13-21-56-3       0485512    WELL NAME:                                         
+    104/13-21-056-03W4/00                            WLEC FROG LK 13-21-56-3                            
+
+                                                     WELL TYPE:                                         
+                                                     PRODUCTION (SCHEME)                                
+
+    CVE ET AL 100 HZ WAPITI 13-9-64-7     0487020    GROUND ELEVATION                                   
+    100/13-09-064-07W6/00                            880.8                                              
+
+                                                     SURFACE CO-ORDINATES:                              
+                                                     N 0132.7 E 0143.9                                  
+
+    IMP STEEPBK 7-15-94-7                 0487283    SURFACE CO-ORDINATES:                              
+    104/07-15-094-07W4/00                            N 0462.5 W 0793.4                                  
+
+    WHITECAP PEMBINA 9-31-49-11           0487305    UWI:                                               
+    02/09-31-049-11W5/0                              03/10-31-049-11W5/0                                
+
+                                                     WELL NAME:                                         
+                                                     WHITECAP PEMBINA 10-31-49-11                       
+
+
+    -------------------- END OF WELL LICENCES DAILY LIST  -------------------- 
