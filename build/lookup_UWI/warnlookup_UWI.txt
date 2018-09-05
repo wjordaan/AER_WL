@@ -1,0 +1,24 @@
+missing module named 'multiprocessing.forking' - imported by C:\1Python\envs\py36\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_multiprocessing.py
+missing module named multiprocessing.get_context - imported by multiprocessing, multiprocessing.pool, multiprocessing.managers, multiprocessing.sharedctypes
+missing module named multiprocessing.TimeoutError - imported by multiprocessing, multiprocessing.pool
+missing module named multiprocessing.BufferTooShort - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.AuthenticationError - imported by multiprocessing, multiprocessing.connection
+missing module named multiprocessing.set_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named multiprocessing.get_start_method - imported by multiprocessing, multiprocessing.spawn
+missing module named resource - imported by posix, C:\OneDrive\Python\Projects\AER_WL\lookup_UWI.py
+missing module named posix - imported by os, C:\OneDrive\Python\Projects\AER_WL\lookup_UWI.py
+missing module named _posixsubprocess - imported by subprocess, multiprocessing.util, C:\OneDrive\Python\Projects\AER_WL\lookup_UWI.py
+missing module named org - imported by pickle, C:\OneDrive\Python\Projects\AER_WL\lookup_UWI.py
+missing module named readline - imported by cmd, code, pdb, C:\OneDrive\Python\Projects\AER_WL\lookup_UWI.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, C:\OneDrive\Python\Projects\AER_WL\lookup_UWI.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, C:\OneDrive\Python\Projects\AER_WL\lookup_UWI.py
+missing module named _winreg - imported by platform, C:\OneDrive\Python\Projects\AER_WL\lookup_UWI.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, C:\OneDrive\Python\Projects\AER_WL\lookup_UWI.py
+missing module named 'java.lang' - imported by platform, C:\OneDrive\Python\Projects\AER_WL\lookup_UWI.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, C:\OneDrive\Python\Projects\AER_WL\lookup_UWI.py
+missing module named termios - imported by tty, C:\OneDrive\Python\Projects\AER_WL\lookup_UWI.py, getpass
+missing module named grp - imported by shutil, tarfile, C:\OneDrive\Python\Projects\AER_WL\lookup_UWI.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, distutils.util, C:\OneDrive\Python\Projects\AER_WL\lookup_UWI.py, netrc, getpass
+missing module named _dummy_threading - imported by dummy_threading, C:\OneDrive\Python\Projects\AER_WL\lookup_UWI.py
+missing module named 'org.python' - imported by copy, C:\OneDrive\Python\Projects\AER_WL\lookup_UWI.py, xml.sax
