@@ -1,0 +1,72 @@
+local variable 'WL' referenced before assignmentTraceback (most recent call last):
+  File "lookupWL.py", line 199, in <module>
+    WL=input_UWI()
+  File "lookupWL.py", line 180, in input_UWI
+    WL_filename = 'WL_'+str(WL)+'.txt'
+UnboundLocalError: local variable 'WL' referenced before assignment
+
+############# END #############
+local variable 'WL' referenced before assignmentTraceback (most recent call last):
+  File "lookupWL.py", line 200, in <module>
+    WL=input_UWI()
+  File "lookupWL.py", line 191, in input_UWI
+    return WL
+UnboundLocalError: local variable 'WL' referenced before assignment
+
+############# END #############
+local variable 'WL' referenced before assignmentTraceback (most recent call last):
+  File "lookupWL.py", line 202, in <module>
+    WL=input_UWI()
+  File "lookupWL.py", line 193, in input_UWI
+    return WL
+UnboundLocalError: local variable 'WL' referenced before assignment
+
+############# END #############
+local variable 'WL' referenced before assignmentTraceback (most recent call last):
+  File "lookupWL.py", line 202, in <module>
+    WL=input_UWI()
+  File "lookupWL.py", line 193, in input_UWI
+    return WL
+UnboundLocalError: local variable 'WL' referenced before assignment
+
+############# END #############
+local variable 'WL' referenced before assignmentTraceback (most recent call last):
+  File "lookupWL.py", line 202, in <module>
+    WL=input_UWI()
+  File "lookupWL.py", line 193, in input_UWI
+    return WL
+UnboundLocalError: local variable 'WL' referenced before assignment
+
+############# END #############
+local variable 'WL' referenced before assignmentTraceback (most recent call last):
+  File "lookupWL.py", line 202, in <module>
+    WL=input_UWI()
+  File "lookupWL.py", line 193, in input_UWI
+    return WL
+UnboundLocalError: local variable 'WL' referenced before assignment
+
+############# END #############
+local variable 'WL' referenced before assignmentTraceback (most recent call last):
+  File "lookupWL.py", line 202, in <module>
+    WL=input_UWI()
+  File "lookupWL.py", line 193, in input_UWI
+    return WL
+UnboundLocalError: local variable 'WL' referenced before assignment
+
+############# END #############
+local variable 'WL' referenced before assignmentTraceback (most recent call last):
+  File "lookupWL.py", line 203, in <module>
+    WL=input_UWI()
+  File "lookupWL.py", line 194, in input_UWI
+    return WL
+UnboundLocalError: local variable 'WL' referenced before assignment
+
+############# END #############
+list index out of rangeTraceback (most recent call last):
+  File "lookupWL.py", line 203, in <module>
+    WL=input_UWI()
+  File "lookupWL.py", line 173, in input_UWI
+    WL = re.search(r'(\d{7})',lic_lines[i-1])
+IndexError: list index out of range
+
+############# END #############
